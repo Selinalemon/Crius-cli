@@ -1,12 +1,12 @@
 {
-  "name": "Crius-cli",
-  "version": "0.1.0",
+  "name": "crius-cli",
+  "version": "0.2.1",
   "description": "react cli",
   "main": "index.js",
   "bin": {
-    "g2": "./bin/cruis.js"
+    "c2": "./bin/crius.js"
   },
-  "author": "sunyinfeng",
+  "author": "lemon19900126",
   "license": "ISC",
   "repository": {
     "type": "git",

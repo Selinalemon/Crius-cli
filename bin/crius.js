@@ -69,7 +69,7 @@ program.version(package.version,'-v,--version')
 						{
 							name:'projectName',
 							message:'项目名称',
-							default:'cruis-init'
+							default:'crius-init'
 						},
 						{
 							name:'projectVersion',
@@ -79,7 +79,7 @@ program.version(package.version,'-v,--version')
 						{
 							name:'projectDescription',
 							message:'项目简介',
-							default:`A project named cruis-init`
+							default:`A project named crius-init`
 						},
 						{
 							name:'uploadHost',
