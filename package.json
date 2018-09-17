@@ -1,6 +1,6 @@
 {
   "name": "crius-cli",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "react cli",
   "main": "index.js",
   "bin": {
